@@ -44,3 +44,6 @@ To find out the overall reaction to the performance of a movie, we may have to r
 can be automated by using the classification of positive an negative feedback through words and sentence analysis. And then measuring the
 frequency of positive and negative reviews to find the overall sentiment of the audience. This obviously needs the analysis of the human language
 written by the audience and NLTK is used heavily here for processing the text.
+
+### Wordnet - An important Knowledge Based semantic network 
+![](https://github.com/DASHANANT/Natural-Language-Processing/blob/main/wordnet.png)
