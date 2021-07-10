@@ -1,7 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[343]:
+# Upgrading The LESK algorithm for word sense disambiguation
+# Author - anantdashpute@gmail.com
 
 
 import nltk
@@ -105,10 +103,3 @@ def lesk(context_sentence, ambiguous_word, synsets=None):
             best_sense = synsets[k]
             
     return best_sense
-
-
-# In[ ]:
-
-
-
-
