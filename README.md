@@ -1,4 +1,7 @@
 # Natural-Language-Processing
+-------------------------------
+![](https://github.com/DASHANANT/Natural-Language-Processing/blob/main/download.png)
+---------------------------
 
 ## Text processing
 Python Programming can be used to process text data for the requirements in various textual data analysis. 
